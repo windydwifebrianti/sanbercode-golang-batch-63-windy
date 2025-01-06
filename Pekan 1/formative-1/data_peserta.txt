@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Windy Dwi Febrianti
+2. Email: windydf25@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: windydwifebrianti
+5. Akun Telegram: windydf
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : MAHASISWA
+7. Umur:18
+8. Pernah menggunakan Go? : Pernah
+9. Bahasa Pemrograman yg pernah dipelajari: Golang
+10. Pernah membuat REST API? : Tidak
