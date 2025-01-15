@@ -16,7 +16,8 @@ func main() {
 		*keliling = 2 * math.Pi * jariJari
 	}
 
-	updateLingkaran(&luasLingkaran, &kelilingLingkaran, 7)
+	updateLingkaran(&luasLingkaran, &kelilingLingkaran, 7
+	)
 
 	fmt.Printf("Luas Lingkaran: %.2f\n", luasLingkaran)
 	fmt.Printf("Keliling Lingkaran: %.2f\n", kelilingLingkaran)
